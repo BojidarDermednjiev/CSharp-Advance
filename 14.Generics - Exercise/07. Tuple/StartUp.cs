@@ -1,7 +1,6 @@
 ﻿namespace _07._Tuple
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
 
     public class StartUp
